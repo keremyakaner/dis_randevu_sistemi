@@ -30,6 +30,8 @@ Proje klasöründe şu dosyalar bulunur:
    pip install pandas
 
 ## ⏳ Uygulamayı başlatmak için proje klasöründe aşağıdaki komutu yazın:
+   ```bash
+   python main.py
 
 ## ✨ Özellikler
 
