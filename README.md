@@ -29,7 +29,7 @@ Proje klasöründe şu dosyalar bulunur:
    ```bash
    pip install pandas
 
-## ⏳ Uygulamayı başlatmak için proje klasöründe aşağıdaki komutu yazın:
+3. Uygulamayı başlatmak için proje klasöründe aşağıdaki komutu yazın:
    ```bash
    python main.py
 
