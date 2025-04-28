@@ -29,6 +29,26 @@ Proje klasöründe şu dosyalar bulunur:
    ```bash
    pip install pandas
 
+## ⏳ Uygulamayı başlatmak için proje klasöründe aşağıdaki komutu yazın:
+
+## ✨ Özellikler
+
+- Yeni hasta ve randevu kaydı ekleme
+- Kayıtlı randevuları listeleme
+- Belirli bir tarihteki randevuları filtreleme (GG/AA/YYYY biçiminde)
+- Randevu hatırlatmaları (Bugün veya yarın olan randevular için)
+- Eksik bilgi uyarıları (Tüm alanların doldurulması gerektiğine dair mesaj)
+
+## 🗄️ Notlar
+
+- Tüm veriler `veriler.csv` dosyasında saklanır.
+- Eğer CSV dosyası bulunamazsa, uygulama çalıştırıldığında otomatik olarak yeni bir `veriler.csv` dosyası oluşturur.
+
+## 🌟 Ekstra Özellikler
+
+- **Bugün Randevusu Olan Hastalar:** Hasta kaydederken, kaydedilen hastaların bugünkü randevuları varsa, sistem otomatik olarak hatırlatma yapar.
+- **Randevu Hatırlatması:** Hasta eklenirken, eğer randevu tarihi bugün veya yarın ise, sistem kullanıcıyı bilgilendirir.
+
 ## 👨‍💻 Geliştiren
 Kerem Yakaner
 Yapay Zeka Operatörlüğü 1. Sınıf Öğrencisi – Karabük Üniversitesi
