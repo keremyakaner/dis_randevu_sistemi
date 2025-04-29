@@ -20,6 +20,7 @@ Proje klasöründe şu dosyalar bulunur:
 - `main.py` → Arayüz ve uygulama mantığı
 - `database.py` → Veritabanı işlemleri (CSV ile veri yönetimi)
 - `veriler.csv` → Hasta ve randevu kayıtlarının saklandığı dosya
+- `Ekran_Kaydi.mp4` → Projenin örnek videosu
 - `README.md` → Proje açıklaması (bu dosya)
 
 ## 🚀 Nasıl Çalıştırılır?
